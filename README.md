@@ -1,4 +1,4 @@
-hadoopchina   branch
+hadoopchina
 ===========
 
 the resource for hadoop 
